@@ -1,3 +1,3 @@
-Приолжение Заметки. Добавление по кнопке, выставление уровня важности. RecyclerView Adapter, Room database, LiveData, MVVM, Handler, ViewModelProvider, Thread
+Приолжение Заметки. Добавление по кнопке, выставление уровня важности. RecyclerView Adapter, Room database, LiveData, MVVM, Handler, ViewModelProvider, Thread.
 
-2 ветка - RXJava
+2 ветка - RXJava: Single, Completable, Exeption Handling, Disposable.
